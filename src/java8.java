@@ -19,5 +19,7 @@ public class java8 {
         System.out.println("test");
 
         System.out.println("nihao !!!");
+
+        System.out.println("12333322");
     }
 }
