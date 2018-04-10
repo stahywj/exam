@@ -21,5 +21,7 @@ public class java8 {
         System.out.println("nihao !!!");
 
         System.out.println("12333322");
+
+        System.out.println("fasdfds");
     }
 }
