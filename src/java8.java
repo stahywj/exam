@@ -23,5 +23,6 @@ public class java8 {
         System.out.println("12333322");
 
         System.out.println("fasdfds");
+        System.out.println("123");
     }
 }
