@@ -28,8 +28,6 @@ public class fun {
                 count--;*/
 //            }
             System.out.println(scan.nextLine());
-///*fsddddddddddddywjfkassssssssssssssssssssssssssssssssssssssssssssssssssssss
-// fjsadkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkfjkdsjf*/
 
         }
        Ordinate ord = min_max(list);
